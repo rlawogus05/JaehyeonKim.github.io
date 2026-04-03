@@ -85,7 +85,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Proving Mathematical theorems with Physics'
+  diffusion-ai:
+    title: 'Diffusion AI'
   conferences:
     title: 'Conference Papers'
 
