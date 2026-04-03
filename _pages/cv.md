@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Mar. 2021 – present: Seoul National University, Department of Mathematical Sciences
-  * Mathematical Sciences major
+* **Mar. 2021 – Present**: B.S. in Mathematical Sciences, **Seoul National University**
   * Minor in Computer Science and Engineering
   * Minor in Physics
 
-Work experience
+Research Experience
 ======
-* Mar. 2026 – present: Core internship researcher, [AIBL Lab / From Core + Theory to Biomedical](https://aibl.snu.ac.kr/team), Seoul National University
-  
-Skills
+* **Mar. 2026 – Present**: Undergraduate Researcher, [AIBL Lab](https://aibl.snu.ac.kr/team), Seoul National University
+  * Advisor: Kyungsu Kim
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
