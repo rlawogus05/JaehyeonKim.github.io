@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Mar. 2021 – Present**: B.S. in Mathematical Sciences, **Seoul National University**
+* **Mar. 2021 – Present**: B.S. in Mathematical Sciences, Seoul National University
+  * Major in Mathematics
   * Minor in Computer Science and Engineering
   * Minor in Physics
 

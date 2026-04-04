@@ -10,4 +10,4 @@ paperurl: '/files/WaterProofJensen.pdf'
 # citation: 'Jaehyeon Kim. (2025). &quot;Water-Based Proof of Jensen’s inequality.&quot; <i>The American Mathematical Monthly</i>. DOI: 10.1080/00029890.2025.2460413'
 ---
 
-**Acknowledgement**: The Version of Record of this manuscript has been published and is available in *The American Mathematical Monthly*, 2025, [https://doi.org/10.1080/00029890.2025.2460413](https://doi.org/10.1080/00029890.2025.2460413).
+**Acknowledgement**: The Version of Record of this manuscript has been published and is available in *The American Mathematical Monthly*, Volume 132, Pages 448-452, 2025, [https://doi.org/10.1080/00029890.2025.2460413](https://doi.org/10.1080/00029890.2025.2460413).
